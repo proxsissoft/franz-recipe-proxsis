@@ -1,0 +1,13 @@
+{
+  "id": "proxsis-redmine",
+  "name": "Redmine Proxsis",
+  "version": "1.0.1",
+  "description": "Redmine Proxsis",
+  "main": "index.js",
+  "author": "Leandro Guindani Gehlen <leandrogehlen@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "http://suporte.proxsis.net/",
+    "hasNotificationSound": false
+  }
+}
